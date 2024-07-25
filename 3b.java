@@ -18,13 +18,13 @@ class Mult
         int c = Integer.parseInt(h[i]);
         i++;
 
-        System.out.println("Product first number is: " + a*5);
+        System.out.println("Product of the first number is: " + a*5);
         System.out.println();
 
-        System.out.println("Product second number is: " + b*5);
+        System.out.println("Product of the second number is: " + b*5);
         System.out.println();
 
-        System.out.println("Product third number is: " + c*5);
+        System.out.println("Product of the third number is: " + c*5);
         System.out.println();
     }
 }
