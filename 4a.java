@@ -39,7 +39,15 @@ class Employee
 	{
 		Employee e = new Employee();
 		
+        	System.out.println("Enter the details of the employee below.");
+        	System.out.println();
+
 		e.get_data();
+        
+        	System.out.println();
+        	System.out.println();
+        	System.out.println("Below are the details of the employee.");
+        	System.out.println();
 		e.display_data();
 	}	
 }
